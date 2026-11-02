@@ -9,6 +9,8 @@ This is my first SQL learning project, where I practiced the fundamentals of SQL
 - Learned string functions, date functions, and NULL value handling.
 - Practiced advanced SQL concepts including Window Functions, CTEs, `UNION`, and `UNION ALL`.
 
+---
+
 **Goal:** Build a strong foundation in SQL through hands-on practice and gradually improve my database querying skills.
 # Superstore SQL Database Setup
 
@@ -16,7 +18,6 @@ This repository contains the database schema and initialization scripts to set u
 
 ## 📁 002 CREATE DB SUPERSTORE
 * **`002 - CREATE DB SUPERSORTE.sql`**: The primary SQL script that creates the database, configures the table structures, and handles the data import.
----
 ## 🛠️ Installation & Data Import Guide
 
 Because modern MySQL servers have strict security configurations (`secure_file_priv`) and character encoding rules, follow these exact steps to load the data successfully without errors.
