@@ -64,3 +64,6 @@ Once the script executes completely, run the following query to verify that the 
 ```sql
 SELECT COUNT(*) FROM superstore;
 ```
+
+
+### Dataset : Sample Superstore
