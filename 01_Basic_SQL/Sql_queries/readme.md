@@ -67,3 +67,15 @@ SELECT COUNT(*) FROM superstore;
 
 
 ### Dataset : Sample Superstore
+
+
+# 003 - GROUP BY in SQL
+
+In this file, I practiced the `GROUP BY` clause using the `superstore` table from the `retail_practice` database.
+
+- Used `GROUP BY` to summarize data based on product categories, regions, and sub-categories.
+- Practiced aggregate functions such as `SUM()`, `AVG()`, and `COUNT()`.
+- Learned to filter grouped results using the `HAVING` clause.
+- Practiced filtering records before grouping using the `WHERE` clause.
+- Used `ORDER BY` to sort aggregated results in ascending and descending order.
+- Combined `WHERE`, `GROUP BY`, `HAVING`, and `ORDER BY` to solve practical SQL business questions.
