@@ -79,3 +79,15 @@ In this file, I practiced the `GROUP BY` clause using the `superstore` table fro
 - Practiced filtering records before grouping using the `WHERE` clause.
 - Used `ORDER BY` to sort aggregated results in ascending and descending order.
 - Combined `WHERE`, `GROUP BY`, `HAVING`, and `ORDER BY` to solve practical SQL business questions.
+
+Skills Improved
+
+Data aggregation and summarization.
+
+Group-based analysis.
+
+Filtering data before and after aggregation.
+
+Writing multi-condition SQL queries.
+
+Analyzing sales, profit, and regional performance using SQL.
