@@ -91,3 +91,24 @@ Filtering data before and after aggregation.
 Writing multi-condition SQL queries.
 
 Analyzing sales, profit, and regional performance using SQL.
+
+
+
+# 004 - SQL Comparison Operators
+
+In this file, I practiced SQL comparison and filtering operators using the **Superstore Dataset** from the `retail_practice` database.
+
+### Topics Covered
+- Practiced logical operators: `AND` and `OR`.
+- Used `IN` and `NOT IN` to filter multiple values.
+- Used `BETWEEN` to filter records within specific ranges.
+- Practiced pattern matching using `LIKE` with `%` and `_` wildcards.
+- Learned to handle missing values using `IS NULL` and `IS NOT NULL`.
+- Applied these operators to filter sales, profits, customers, products, regions, and other business data.
+
+### Skills Improved
+- SQL data filtering and condition-based querying.
+- Combining multiple conditions in a single query.
+- Pattern matching and range-based filtering.
+- Handling NULL values.
+- Writing practical SQL queries for business data analysis.
